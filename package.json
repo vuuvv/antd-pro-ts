@@ -3,5 +3,9 @@
   "private": false,
   "devDependencies": {
     "lerna": "^3.3.2"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
   }
 }

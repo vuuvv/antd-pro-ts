@@ -10,5 +10,8 @@
     "@vuuvv/reactx": "^0.0.4"
   },
   "private": false,
-  "gitHead": "2611b444ced5aa11d81f0020d545eeef493fe2c1"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "05bfbd17b081bfbf43a0afef19876d31baedd135"
 }
