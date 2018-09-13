@@ -8,5 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "@vuuvv/reactx": "^0.0.2"
-  }
+  },
+  "private": false,
+  "gitHead": "6eb0c5546e5a4263ae1170b81f08bb981013b050"
 }
