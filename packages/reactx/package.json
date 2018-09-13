@@ -1,6 +1,6 @@
 {
   "name": "@vuuvv/reactx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A react tools library",
   "main": "lib/index.js",
   "repository": "https://github.com/vuuvv/reactx",
