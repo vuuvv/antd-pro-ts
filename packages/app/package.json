@@ -1,13 +1,13 @@
 {
   "name": "antd-pro-ts",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Ant Design pro use typescript",
   "main": "index.js",
   "repository": "https://github.com/vuuvv/antd-pro-ts",
   "author": "vuuvv",
   "license": "MIT",
   "dependencies": {
-    "@vuuvv/reactx": "^0.0.4"
+    "@vuuvv/reactx": "^0.0.5"
   },
   "private": false,
   "publishConfig": {
